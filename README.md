@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jorge Saenz
+Hi 👋 My name is Jorge Saenz
 ===================================================================================================================================
 
-Systems Engineer
+Systems Engineer 👨‍💻
 ----------------
 
 Tenth semester Systems Engineering student, curious and passionate about learning, with skills in software design and development. Creative, analytical and adaptable to new environments and technologies. Interested in applying my knowledge in software design and development.
