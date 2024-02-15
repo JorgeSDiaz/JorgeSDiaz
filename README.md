@@ -10,7 +10,7 @@ I stand out for my creativity, resilience and sharp analytical skills. My commun
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [jorgedszdiaz@gmail.com](mailto:jorgedszdiaz@gmail.com)
-* 🧠  I'm learning Nest - React - Android
+* 🧠  I'm learning Nest - React
 * ⚡  I love cocktails and gastronomy, as well as series, movies, video games and sports.
 
 ### Skills
