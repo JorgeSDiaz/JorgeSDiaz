@@ -4,7 +4,9 @@ Hi 👋 My name is Jorge Saenz
 Systems Engineer 👨‍💻
 ----------------
 
-Tenth semester Systems Engineering student, curious and passionate about learning, with skills in software design and development. Creative, analytical and adaptable to new environments and technologies. Interested in applying my knowledge in software design and development.
+Systems Engineer, with technical expertise in fullstack development. My experience encompasses the implementation of efficient and scalable solutions, with a hands-on approach to problem solving.
+
+I stand out for my creativity, resilience and sharp analytical skills. My communicative and self-taught approach allows me to adapt to new environments and programming languages. I am a committed and flexible collaborator, ready to contribute significantly to the success of the team.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [jorgedszdiaz@gmail.com](mailto:jorgedszdiaz@gmail.com)
