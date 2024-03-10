@@ -4,9 +4,7 @@ Hi 👋 My name is Jorge Saenz
 Systems Engineer 👨‍💻
 ----------------
 
-Systems Engineer, with technical expertise in fullstack development. My experience encompasses the implementation of efficient and scalable solutions, with a hands-on approach to problem solving.
-
-I stand out for my creativity, resilience and sharp analytical skills. My communicative and self-taught approach allows me to adapt to new environments and programming languages. I am a committed and flexible collaborator, ready to contribute significantly to the success of the team.
+Systems Engineer and Full Stack Developer, passionate about learning and software development. I combine creative and analytical skills to address challenges in dynamic environments, using agile methodologies to ensure efficient and high-quality deliveries. My experience includes troubleshooting internal systems and independent development for the commercial industry. I am curious and adaptable, always interested in applying my knowledge in software design and development. Staying up to date with the latest technologies is a priority, reflecting my commitment to excellence and innovation in each project.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [jorgedszdiaz@gmail.com](mailto:jorgedszdiaz@gmail.com)
