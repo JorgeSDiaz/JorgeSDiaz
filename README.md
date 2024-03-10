@@ -1,10 +1,10 @@
 Hi 👋 My name is Jorge Saenz
 ===================================================================================================================================
 
-Systems Engineer 👨‍💻
+Systems Engineer / Full Stack Developer 👨‍💻
 ----------------
 
-Systems Engineer and Full Stack Developer, passionate about learning and software development. I combine creative and analytical skills to address challenges in dynamic environments, using agile methodologies to ensure efficient and high-quality deliveries. My experience includes troubleshooting internal systems and independent development for the commercial industry. I am curious and adaptable, always interested in applying my knowledge in software design and development. Staying up to date with the latest technologies is a priority, reflecting my commitment to excellence and innovation in each project.
+Systems Engineer and Full Stack Developer, passionate about learning and software development.
 
 * 🌍  I'm based in Colombia
 * 🧠  I'm learning Django - Angular
